@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi there 👋, I'm Yashu!
 
-<!--
-**Yashu8888/Yashu8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student | 💻 Software Developer | 🚀 Tech Enthusiast
 
-Here are some ideas to get you started:
+👨‍💻 About Me
+🔭 Building practical software and web applications
+🌱 Exploring modern development, databases and AI-powered tools
+💡 Passionate about transforming ideas into real-world solutions
+🤝 Interested in collaborative development and innovative projects
+⚡ Learn. Build. Improve. Repeat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Current Projects
+* 🔥 IdeaForge — A platform for validating startup ideas, building teams and managing projects.
+* 🌐 Web Development Projects — Building websites and integrating them with databases.
+* 💻 Software Projects — Developing practical applications while improving my programming and problem-solving skills.
+
+🛠️ Tech Stack & Expertise
+💻 Java • Python • JavaScript • React • HTML5 • CSS3 • SQL • Supabase • API Integration • Git & GitHub
+
+🎯 Currently Growing In
+Full-Stack Development • Software Engineering • AI-Powered Development • Database Systems • Product Development
+
+📈 My Developer Mindset
+Think → Design → Build → Test → Improve → Ship 🚀
+
+I believe the best way to learn technology is by turning ideas into working products.
