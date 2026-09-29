@@ -1,6 +1,6 @@
 Hi there 👋, I'm Yashu!
 
-🎓 Student | 💻 Software Developer | 🚀 Tech Enthusiast
+🎓 Student | 💻 Software Developer in Training | 🚀 Tech Enthusiast
 
 👨‍💻 About Me
 * 💡 Passionate about transforming ideas into real-world solutions
@@ -15,7 +15,7 @@ Hi there 👋, I'm Yashu!
 * 💻 Software Projects — Developing practical applications while improving my programming and problem-solving skills.
 
 🛠️ Tech Stack & Expertise
-💻 Java • Python • JavaScript • React • HTML5 • CSS3 • SQL • Supabase • API Integration • Git & GitHub
+💻 Java • Python • JavaScript • React • HTML5 • CSS3 • SQL • Supabase • Firebase • API Integration • Git & GitHub • VS Code
 
 🎯 Currently Growing In
 Full-Stack Development • Software Engineering • AI-Powered Development • Database Systems • Product Development
