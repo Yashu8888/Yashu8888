@@ -3,11 +3,11 @@ Hi there 👋, I'm Yashu!
 🎓 Student | 💻 Software Developer | 🚀 Tech Enthusiast
 
 👨‍💻 About Me
-🔭 Building practical software and web applications
-🌱 Exploring modern development, databases and AI-powered tools
-💡 Passionate about transforming ideas into real-world solutions
-🤝 Interested in collaborative development and innovative projects
-⚡ Learn. Build. Improve. Repeat.
+* 💡 Passionate about transforming ideas into real-world solutions
+* 🤝 Interested in collaborative development and innovative projects
+* 🌱 Exploring modern development, databases and AI-powered tools
+* 🔭 Building practical software and web applications
+* ⚡ Learn. Build. Improve. Repeat.
 
 🚀 Current Projects
 * 🔥 IdeaForge — A platform for validating startup ideas, building teams and managing projects.
